@@ -1,5 +1,5 @@
 This API creates a task with a specific date-time and takes an url.
-Then it checks the date-time on the column with the system data-time and accordingly sends a request.
+Then it checks the date-time on the column with the system date-time and accordingly sends a request.
 Postman Collection for this API:- https://www.getpostman.com/collections/e2ec00a145af91dcae9d
 
 
